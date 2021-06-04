@@ -1,6 +1,3 @@
-// slide_Swap
-
-
 var cont = 0;
 function loopSlider() {
     var xx = setInterval(function () {
@@ -56,5 +53,3 @@ function sliderButton2() {
     reinitLoop(4000);
     cont = 1
 }
-
-// slide_Swap
